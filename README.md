@@ -1,4 +1,4 @@
-# Railway-Ngrok
+# Ngrok-Railway
 
 利用Ngrok将Railway docker内网穿透做vps使用
 
@@ -16,7 +16,7 @@ ps: Ngrok 的免费账号一个地区只能拥有一个隧道服务，所以想�
 
 点击下方按钮部署
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/buwang-w/Railway-Ngrok&envs=NGROK_TOKEN,PORT,REGION&NGROK_TOKENDesc=在Ngrok注册得到的Authtoken&PORTDesc=你需要开放的端口，默认80&PORTDefault=80&REGIONDesc=Ngrok的地区，默认jp，可选us/eu/ap/au/sa/jp/in&REGIONDefault=jp&referralCode=JkdRr5)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/buwang-w/Ngrok-railway&envs=NGROK_TOKEN,PORT,REGION&NGROK_TOKENDesc=在Ngrok注册得到的Authtoken&PORTDesc=你需要开放的端口，默认80&PORTDefault=80&REGIONDesc=Ngrok的地区，默认jp，可选us/eu/ap/au/sa/jp/in&REGIONDefault=jp&referralCode=JkdRr5)
 
 默认密码 `akashi520`
 
